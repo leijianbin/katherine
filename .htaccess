@@ -1,0 +1,3 @@
+#Alternate default index pages
+Options +Indexes
+DirectoryIndex index.php
